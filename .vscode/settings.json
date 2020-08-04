@@ -1,0 +1,7 @@
+{
+    "php.suggest.basic": false,
+    "php.validate.enable": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
+}
